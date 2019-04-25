@@ -15,7 +15,7 @@ function setCookieGdpr(cname, cvalue, exdays) {
 }
 
 var consentCookie = {
-    accept : "no";
+    accept : "no"
 }
 
 function getconsentCookie() {
