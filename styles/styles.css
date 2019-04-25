@@ -1,0 +1,86 @@
+#cookiescript_injected{ 
+    bottom: 0px; 
+    background-color: rgb(17, 17, 17); 
+    z-index: 999999; 
+    opacity: 0.9; 
+    position: fixed; 
+    padding: 15px 0px 5px; 
+    width: 100%; 
+    left: 0px; 
+    font-size: 13px; 
+    font-weight: normal; 
+    text-align: left; 
+    letter-spacing: normal; 
+    color: rgb(255, 255, 255); 
+    font-family: Arial, sans-serif;
+}
+
+#cookiescript_wrapper {
+    width: 100%; 
+    margin: 0px auto; 
+    font-size: 13px; 
+    font-weight: normal; 
+    text-align: center; 
+    color: rgb(255, 255, 255); 
+    font-family: Arial, sans-serif; 
+    line-height: 18px; 
+    letter-spacing: normal; 
+    padding: 0px 5px;
+}
+
+#cookiescript_header {
+    background-color: rgb(17, 17, 17); 
+    z-index: 999999; 
+    padding: 0px 0px 7px; 
+    text-align: center; 
+    color: rgb(255, 255, 255); 
+    font-family: Arial, sans-serif; 
+    display: block; 
+    font-size: 18px; 
+    font-weight: bold; 
+    margin: 0px;
+}
+
+#cookiescript_buttons {
+    margin: 25px auto 20px 20px; 
+    font-size: 13px; 
+    font-weight: normal; 
+    text-align: center; 
+    font-family: Arial, sans-serif;
+}
+
+#cookiescript_accept {
+    border: 0px; 
+    padding: 11px 20px; 
+    font-size: 15px; 
+    cursor: pointer; 
+    margin: 0px 10px 0px 15px; 
+    transition: all 0.25s ease 0s; 
+    display: inline-block; 
+    background-color: rgb(91, 183, 91); 
+    color: rgb(255, 255, 255);
+}
+
+#cookiescript_reject {
+    border: 0px; 
+    padding: 11px 20px; 
+    font-size: 15px; 
+    cursor: pointer; 
+    margin: 0px 10px 0px 15px; 
+    transition: all 0.25s ease 0s; 
+    display: inline-block; 
+    background-color: rgb(183, 91, 91); 
+    color: rgb(255, 255, 255);
+}
+
+#cookiescript_readmore {
+    border: 0px; 
+    padding: 11px 20px; 
+    font-size: 15px; 
+    cursor: pointer; 
+    margin: 0px 10px 0px 15px; 
+    transition: all 0.25s ease 0s; 
+    display: inline-block; 
+    background-color: rgb(105, 118, 119); 
+    color: rgb(255, 255, 255);
+}
